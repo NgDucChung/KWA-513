@@ -1,0 +1,18 @@
+[
+  {
+    "label": "Đã hoàn thành",
+    "value": 6 
+  },
+  {
+    "label": "Dang thực hiện",
+    "value": 2
+  },
+  {
+    "label": "Đã hủy",
+    "value": 2
+  },
+  {
+    "label": "Lên kế hoạch",
+    "value": 2
+  }
+]
